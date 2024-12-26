@@ -3,7 +3,7 @@
 This is a proof concept for an AI-powered hedge fund.  The goal of this project is to explore the use of AI to make trading decisions.  This project is for **educational** purposes only and is not intended for real trading or investment.
 
 This system employs several agents working together:
-
+ 
 1. Market Data Analyst - Gathers and preprocesses market data
 2. Sentiment Agent - Analyzes market sentiment and generates trading signals
 3. Fundamentals Agent - Analyzes fundamental data and generates trading signals
